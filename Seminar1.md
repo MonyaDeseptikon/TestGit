@@ -23,3 +23,6 @@ git status (дубль)- посмотреть состояние
 git branch - просмотр всех веток
 branch - ветка
 git branch name - создание ветки
+
+
+github
