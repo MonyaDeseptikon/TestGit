@@ -22,3 +22,4 @@ git status (дубль)- посмотреть состояние
 ## Seminar2
 git branch - просмотр всех веток
 branch - ветка
+git branch name - создание ветки
